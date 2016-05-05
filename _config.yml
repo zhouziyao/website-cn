@@ -1,0 +1,17 @@
+# Site settings
+title: Ziyao's Website
+email: 
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "www.ziyao.science" # the base hostname & protocol for your site
+cn: "cn.ziyao.science"
+
+
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
+
+#permalink
+permalink: pretty
