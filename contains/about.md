@@ -1,11 +1,12 @@
-##Hello everyone,
+##关于我,
 
+周紫峣, [四川农业大学](http://www.sicau.edu.cn) 动物医学院临床兽医系在读博士研究生，导师 [彭广能教授](http://syy.sicau.edu.cn/ShowInfo.asp?ID=53)。
 
-I am Ziyao, a PhD candidate marjoring in Veterinary Clinical Medicine at [Sichuan Agricultural University](http://www.sicau.edu.cn) under supervision of [Prof. Guangneng Peng](http://syy.sicau.edu.cn/ShowInfo.asp?ID=53). Currently, I am in [University of Illinois](http://www.illinois.edu) doing my joint-project under supervision of [Dr. Fabio Lima](http://illinois.edu/ds/search?search_type=userid&search=flima&skinId=10776). 
+目前受到教育部留学基金委资助，在 [University of Illinois at Urbana-Champaign](http://www.illinois.edu) 临床兽医系 [Dr. Fabio Lima](http://illinois.edu/ds/search?search_type=userid&search=flima&skinId=10776) 实验室作为联合培养博士生。
 
-My research is focus on the metagenomics and transcriptome for mamanls. 
+主要研究兴趣为动物宏基因组及转录组的生物信息学分析和验证。
 
-You may find further academic information about me in the [research gate](https://www.researchgate.net/profile/Ziyao_Zhou3) or [Email me](mailto: zhou@ziyao.science).
+您可以从[Research Gate](https://www.researchgate.net/profile/Ziyao_Zhou3)或[CV](/CV-ziyao-cn.pdf)以获得更多关于我的学术信息，如有兴趣，欢迎给我[发邮件](mailto: zhou@ziyao.science)。
 
 
 
@@ -13,4 +14,4 @@ You may find further academic information about me in the [research gate](https:
 
 -----------
 
-[Back to the main page](http://www.ziyao.science)
+[回到主页](http://zhou.ziyao.science)
