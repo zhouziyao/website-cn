@@ -17,7 +17,7 @@
 
 关键词：大熊猫，肠道菌群，高通量测序，群落，生物学特性
 
-[PDF](/大熊猫肠道菌群的研究进展.pdf)
+[PDF](大熊猫肠道菌群的研究进展.pdf)
 
 -------------
 
@@ -28,7 +28,7 @@
 
 关键词：芽孢杆菌; 抗菌活性; 抗菌基因; 大熊猫
 
-[PDF](/Investigation_of_antibacterial_activity_of_Bacillus_spp._isolated_from_the_feces_of_Giant_Panda_and_characterization_of_their_antimicrobial_gene_distributions.pdf)
+[PDF](Investigation_of_antibacterial_activity_of_Bacillus_spp._isolated_from_the_feces_of_Giant_Panda_and_characterization_of_their_antimicrobial_gene_distributions.pdf)
 
 
 #### <!-- 大熊猫肠道宏基因组-->
