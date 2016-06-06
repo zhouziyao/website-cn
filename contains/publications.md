@@ -8,7 +8,7 @@
 
 **Ziyao Zhou**, Xiaoxiao Zhou, ZhijunZhong, Chengdong Wang, Hemin Zhang, Desheng Li, Tingmei He, Caiwu Li, XuehanLiu, Hui Yuan, Hanli Ji, Yongjiu Luo, Wuyang Gu, Huanlin Fu, Guangneng Peng.Investigation of antibacterial activity of*Bacillus* spp. isolated from the feces of giant panda and characterizationof their antimicrobial gene distributions. *WorldJournal of Microbiology and Biotechnology*. 2014, 30 (12) : 3129-3136. 
 
-**周紫峣**, 钟志军, 周潇潇, 彭广能, 李奇, 陶志勇, 杨平, 杨俊, 陈英, 王亚萍. 大熊猫肠道菌群的研究进展. 微生物学通报. 网络优先发表.
+**周紫峣**, 钟志军, 周潇潇, 彭广能, 李奇, 陶志勇, 杨平, 杨俊, 陈英, 王亚萍. 大熊猫肠道菌群的研究进展. 微生物学通报. ,2016,43(6):1366-1371.
 
 **周紫峣**, 周潇潇, 彭广能, 唐天亮, 彭西, 钟志军, 刘长松, 刘俊卿, 吴江兰, 孙鸿雁, 邓乔, 周治金. 松鼠猴感染假结核耶尔森菌的诊治. 兽类学报. 2014, 34 (2):181 – 187.
 
